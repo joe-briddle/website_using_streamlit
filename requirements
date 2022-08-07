@@ -1,4 +1,4 @@
 streamlit
 Pillow
-streamlit_lottie
+from streamlit_lottie import st_lottie
 requests
