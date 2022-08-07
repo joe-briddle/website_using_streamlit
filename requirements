@@ -1,4 +1,4 @@
-streamlit
-Pillow
-from streamlit_lottie import st_lottie
-requests
+Pillow==9.2.0
+requests==2.26.0
+streamlit==1.11.1
+streamlit_lottie==0.0.3
